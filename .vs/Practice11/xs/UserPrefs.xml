@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1E235429-848A-44C5-976D-66EF37C20195}|Default">
+  <MonoDevelop.Ide.ItemProperties.Practice11 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice11/Controllers/EmployeeController.cs">
+    <Files>
+      <File FileName="Practice11/Employee.cs" Line="10" Column="37" />
+      <File FileName="Practice11/appsettings.json" />
+      <File FileName="Practice11/Startup.cs" />
+      <File FileName="Practice11/Program.cs" />
+      <File FileName="Practice11/Controllers/EmployeeController.cs" Line="42" Column="1" />
+      <File FileName="Practice11/Properties/launchSettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practice11" expanded="True">
+            <Node name="Practice11" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="EmployeeController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
